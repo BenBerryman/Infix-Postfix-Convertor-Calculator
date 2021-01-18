@@ -1,4 +1,4 @@
-#Infix-Postfix Convertor/Calculator
+# Infix-Postfix Convertor/Calculator
 A simple program that uses a stack to either convert from infix notation to
 postfix notation, or to calculate a postfix expression.
 
